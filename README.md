@@ -5,16 +5,16 @@ This is a REST API that allows you to store and fetch music track metadata from 
 ## Installation
 
 1. Clone this repository:
-git clone https://github.com/hackykitty/spotify-track-express-api.git
+``git clone https://github.com/hackykitty/spotify-track-express-api.git``
 
 2. Install the dependencies:
-npm install
+``npm install``
 
 3. Copy the `.env.example` to `.env` and update the environment variables:
-cp .env.example .env
+``cp .env.example .env``
 
 4. Run the server:
-npm start
+``npm start``
 
 ## API Endpoints
 
